@@ -1,4 +1,5 @@
-# Carlos Silva
+<h1 color="black" align="center">Carlos Silva 🏴‍☠️</h1>
+
 ### Frontend Developer
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=carlosqsilva.carlosqsilva)
