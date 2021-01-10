@@ -1,4 +1,4 @@
-# Carlos Silva 👨🏽‍💻
+# Carlos Silva
 ### Frontend Developer
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=carlosqsilva.carlosqsilva)
